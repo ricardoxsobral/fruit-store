@@ -1,0 +1,30 @@
+.CartItens{
+    background-color: antiquewhite;
+    height: 100%;
+}
+    .allcart{
+        display: flex;
+        padding-bottom: 10px;
+    }
+        .empty-cart{
+            display: flex;
+        }
+            .empty{
+                margin-left: 10px;
+            }
+        .buttons{
+            display: flex;
+            justify-content: space-evenly;
+        }
+            .add{
+                border-radius: 10px;
+                border: none;
+                background-color: #90EE90;
+                padding: 1px 10px;
+            }
+            .remove{
+                border-radius: 10px;
+                border: none;
+                background-color: 	#FF6347;
+                padding: 1px 10px;
+            }

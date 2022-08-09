@@ -1,0 +1,12 @@
+/*HOME*/
+    .cards{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+@media (min-width: 484px){
+    .cards{
+        justify-content: space-between;
+    }
+}

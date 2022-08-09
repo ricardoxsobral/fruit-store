@@ -1,0 +1,20 @@
+a:link{
+    text-decoration: none;
+    color: none;
+}
+.Navbar{
+    text-align: center;
+    padding-top: 20px;
+}
+    .logo{
+        width: 30%;
+    }
+    .title{
+        width: 100%;
+        font-size: 300%;
+    }
+.my-cart{
+    color: black;
+    margin-top: 30px !important;
+}
+
