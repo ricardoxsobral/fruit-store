@@ -1,0 +1,12 @@
+# desafio-frexco
+Get Start:
+### npm install
+### npm run dev
+
+
+
+<BR>
+To Work:<br><br>
+Go to url 'https://cors-anywhere.herokuapp.com' and click on Request temporary access to the demo server
+<BR>
+<img height="180em" src="https://ci3.googleusercontent.com/mail-img-att/AFCqZUTyxkgWdJzJ6P-D-IV1AcpCG9-Tpb2Mw7X-Ssf1k9StqqV1yRyWCg6pXLkP3X61WkCWrnsgExP0dYtmVoFJAYD9sYyD72k0m0ciVgQEl4E1UnKr1CsaBRKKEmEJ5y-y3PFDTvllb0aNt8FiVo_6WgILG71xl9CUkFNLJRi4rmQTcjj2qZEJolSUFAWvGdcpavONmHszxY5N8yxaFnXJ7wxq9cqxUSdFAfHITG0HD4sySdnrzxUujEzIUKwHpxSaGc-1UzwTEy3CrqI2qRMzBDi8RNMKDtB0sepSKGVl_V5XvQ2PUfYylFGgEMlttLvMna8wZ8niaP2rZvy3qV3p3A2BU77QaW2mrq1Nzkqjg_Ez3ZL28L8wOAuK9eAAp2Row9WeJi6AlaycqIOhK-kHZ00bjU9-tDP78BPGcPVzYKk3r4-M9lTU4PaQPUA2g0bnPdDm9yv34xdoUNNautF4oScw-izrQ46itvyet1mL8kwDBcZ6iMZQ3527qm-9UsdhJ-eLRB3KTWX9IdZ4Ge4WefEi9-vvVB3NFHIfEhWCoQd2tgvyh2R5TttBJKBA2d2VkK1blYnQNRGdDZGz0P0KoPvLBcX2C2oATMi67oTCGIxzN1vNsVVR8t7yajzWvXb2NSPikPHQNXBr-hPXuodIviT3zdqu_jDZcdT6M4aLfsNehSI0fKhByBkwodr7Wk4KPay9G2f9KsaYV7aOjU_jfrDhXrcCCh2im8Fn1dydg4a91SC0ceEjbfL_6FWTuL6rPt6RGCFPwjYMCIya=s0-l75-ft">
