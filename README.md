@@ -1,4 +1,4 @@
-# desafio-frexco
+# Fruit Store
 Get Start:
 ### npm install
 ### npm run dev
